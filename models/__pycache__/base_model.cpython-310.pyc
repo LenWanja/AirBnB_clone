@@ -1,0 +1,7 @@
+o
+    ø£ïbo   ã                    @   s6   d Z d d l Z d d l m Z   d d l m Z   G d d „ d ƒ Z d S )z Defines the BaseModel class.é    N) Ú uuid4) Ú datetimec                    @   s0   e Z d Z d Z d d „ Z d d „ Z d d„ Z d d	„ Zd
+S )
+Ú	BaseModelz-Represents the BaseModel of the HBnB project.c                    O   s„   d } t t ƒ ƒ | _ t   ¡ | _ t   ¡ | _ t| ƒ d k r:|   ¡ D ] \ } } | d k s(| d k r2t  	| | ¡ | j
+| < q | | j
+| < q d S t
+j

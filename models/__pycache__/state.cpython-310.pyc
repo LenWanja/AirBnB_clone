@@ -1,0 +1,7 @@
+o
+    ø£ïbá   ã                    @   s$   d Z d d l m Z   G d d „ d e ƒ Z d S ) z Defines the State class.é    ) Ú	BaseModelc                    @   s    e Z d Z d Z d Z d S ) Ú StatezSRepresent a state.
+
+    Attributes:
+        name (str): The name of the state.
+    Ú N) Ú __name__Ú
+__module__Ú

@@ -1,0 +1,8 @@
+o
+    ø£ïb    ã                    @   s$   d Z d d l m Z   G d d „ d e ƒ Z d S ) z Defines the City class.é    ) Ú	BaseModelc                    @   s    e Z d Z d Z d Z d Z d S ) Ú CityzwRepresent a city.
+
+    Attributes:
+        state_id (str): The state id.
+        name (str): The name of the city.
+    Ú N) Ú __name__Ú
+__module__Ú
